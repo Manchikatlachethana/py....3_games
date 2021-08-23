@@ -1,5 +1,6 @@
 # py....3_games
-```
-- Guess_Word 
-- Number_Guess
-```
+
+- [Guess-Word](https://github.com/Manchikatlachethana/Guess_Word)
+
+- [Guess-Number](https://github.com/Manchikatlachethana/Number_Guess)
+
